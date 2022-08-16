@@ -8,6 +8,6 @@ public class TestController {
         return "name01";
     }
     private String getGrade(){
-        return "8"
+        return "8";
     }
 }
