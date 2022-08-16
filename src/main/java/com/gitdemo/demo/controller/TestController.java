@@ -11,6 +11,7 @@ public class TestController {
     private String getName(){
         return "name01";
     }
+    @GetMapping("/grade")
     private String getGrade(){
         return "8";
     }
